@@ -1,0 +1,17 @@
+body {
+    background-color: gainsboro;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+background-color: black;
+color: white;
+}
+main {
+    background-color: black ;
+color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+}

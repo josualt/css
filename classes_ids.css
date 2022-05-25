@@ -1,0 +1,24 @@
+body {
+    background-color: greenyellow;
+}
+
+div {
+    font-size: 10pt;
+}
+
+.error {
+    color: yellow;
+    background-color: red;
+}
+
+.important {
+    font-size: 12px;
+    font-weight: bold;
+    height: 100px;
+}
+
+.simple {
+    background-color: blueviolet;
+    height: 60px;
+    width: 200px;
+}
