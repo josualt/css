@@ -1,0 +1,25 @@
+body {
+    background-color: blueviolet;
+    font-size: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+#tittle_block {
+    height: 100px;
+    background-color: black;
+    padding: 10px;
+}
+#tittle_block h1 {
+    color: white;
+}
+
+.light {
+    background-color: aqua;
+    font-size: 10pt;
+}
+#footer {
+    font-size: 7pt;
+    text-align: center;
+}
+
