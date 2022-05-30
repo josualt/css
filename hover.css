@@ -1,0 +1,17 @@
+body {
+    font-size: 10pt;
+}
+
+.block {
+    color: red;
+    height: 100px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.block:hover {
+    background-color: red;
+    color: white;
+}
+a:hover {
+    text-decoration: none;
+}
