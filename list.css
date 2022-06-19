@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15;
+    color: black ;
+    font: bold;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+    border: 2px solid gray;
+    margin-left: -5px;
+    padding: 5px;
+}
+
+.menu li:hover {
+    background-color: gray;
+}
+
+.menu li a {
+    text-decoration: none;
+}

@@ -1,0 +1,43 @@
+.batman {
+    color: black;
+    background-color: goldenrod;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pinky {
+    color: palevioletred;
+    background-color: brown;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ironman {
+    color: red;
+    background-color: yellow;
+    font-size: 30px;
+    font-family: fantasy;
+    clear: both;
+}
+.left {
+    color: yellow;
+    background-color: red;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 20%;
+    float: left;
+}
+.center {
+    color: aqua;
+    background-color: rgb(234, 0, 255);
+    font-size: 20px ;
+    font-family: cursive;
+    width: 60%;
+    float: left;
+}
+.right {
+color: green;
+background-color: blue;
+font-size: 15px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+width: 20%;
+float:left;
+}
