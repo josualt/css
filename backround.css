@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    background-image: url(images/zenitsu.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+div {
+    height: 200px;
+    margin: 5px;
+    border: 1px dashed red;
+    background-color: rgba( 28, 28, 168, 0.5);
+}

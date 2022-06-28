@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    border: 3px solid green;
+}
+
+.showme {
+    background-color: brown;
+}
+
+.showme:hover .secret {
+    visibility: visible;
+}
+
+.secret {
+    background-color: blueviolet;
+    visibility: hidden;
+}
+
+.secret2 {
+    background-color: yellow;
+    display: none;
+}
+
+.showme2:hover .secret2 {
+    display: block;
+}
