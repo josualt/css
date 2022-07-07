@@ -1,0 +1,57 @@
+body {
+    background-color: blue;
+}
+
+#container1 {
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#container2 {
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#container3 {
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#container4 {
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#container5 {
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.first {
+    background-color: red;
+}
+
+.second {
+    background-color: yellow;
+}
+
+.third {
+    background-color: purple;
+}
+
+.block {
+    border: 1px solid black;
+    margin: 10px;
+    height: 29%;
+    text-align: center;
+}
